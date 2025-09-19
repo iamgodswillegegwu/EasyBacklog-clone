@@ -1,0 +1,15 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+tmp/*
+TODO.rb
+*.log
+public/test-*.*
+*.dat
+bin
+.powrc
+.rvmrc
+public/assets
+.env
+/coverage
